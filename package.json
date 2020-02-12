@@ -1,0 +1,18 @@
+{
+  "name": "larajs",
+  "version": "1.0.0",
+  "description": "laravel artisan components creator for express API's",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laravel",
+    "js",
+    "express",
+    "creater",
+    "artisan"
+  ],
+  "author": "Fernando Servín Victoria",
+  "license": "MIT"
+}
