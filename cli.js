@@ -1,4 +1,3 @@
-function test() {
+export default test() {
     console.log('Hola LARAJS')
 }
-module.export = {test}
