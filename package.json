@@ -1,6 +1,6 @@
 {
   "name": "larajs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "laravel artisan components creator for express API's",
   "main": "cli.js",
   "scripts": {

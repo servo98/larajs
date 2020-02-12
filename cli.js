@@ -1,3 +1,3 @@
-export default test() {
-    console.log('Hola LARAJS')
+export default function test() {
+    console.log('Hola LARAJS');
 }
